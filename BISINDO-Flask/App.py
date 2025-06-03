@@ -179,5 +179,4 @@ def predict():
     return jsonify({'gesture': gesture, 'confidence': confidence})
 
 if __name__ == '__main__':
-    # debug=True hanya untuk development lokal
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run()
