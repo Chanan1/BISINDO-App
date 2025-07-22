@@ -1,1 +1,2 @@
-
+## Analisa Singkat
+Kode ini membangun dan melatih model klasifikasi gambar isyarat tangan menggunakan arsitektur MobileViT (XXS variant) dengan Keras dan TensorFlow. Model ini menggabungkan kekuatan konvolusi dan Transformer dalam satu blok untuk menangkap fitur lokal dan global dari citra. Proses meliputi pembuatan blok MobileViT secara modular, persiapan dataset gambar A–Z, pelatihan dengan augmentasi minimal, evaluasi dengan confusion matrix dan metrik akurasi, serta konversi model ke format .tflite untuk keperluan deployment di perangkat edge.
