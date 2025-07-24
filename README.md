@@ -1,6 +1,6 @@
 # BISINDO-App
 ## Contributor
 
-| Name                        | NIM     | Github-Profile                                       | LinkedIn                                          |
+| Name                        | NIM     | Universitas                                       | LinkedIn                                          |
 |-----------------------------|----------------|-----------------------------------------------------|--------------------------------------------------|
-| Chanan Artamma    | 22.11.4957| [@Chanan1](https://github.com/Chanan1)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
+| Chanan Artamma    | 22.11.4957| Universitas Amikom Yogyakarta         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
