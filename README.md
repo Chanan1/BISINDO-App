@@ -1,3 +1,5 @@
+#Journal Scientist
+Journal Sinta 3 : (https://jurnal.polibatam.ac.id/index.php/JAIC/article/view/11575)
 # BISINDO-App
 ## Contributor
 
